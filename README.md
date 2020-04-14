@@ -6,5 +6,5 @@
 
 ## To run app:
 
-* From the project directory: ```$ npm start```
+* From the server directory: ```$ npm start```
 * Access client via [Link](http://localhost:3300)
